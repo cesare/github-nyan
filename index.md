@@ -49,4 +49,4 @@ layout: default
 
 ## 資料など
 
-* [Gitのインストール](/installing-git.html)
+* [Gitのインストール](./installing-git.html)
