@@ -46,3 +46,7 @@ layout: default
 * Git Tips (時間があれば)
  * なかったことにしたい！ 〜歴史改変技あれこれ
  * ちょっと横に置いといて
+
+## 資料など
+
+* [Gitのインストール](/installing-git.html)
