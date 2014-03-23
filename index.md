@@ -24,6 +24,8 @@ layout: default
  * バージョン管理 4W1H
  * 複数のメンバーで編集
  * ブランチを分けるという知恵
+ * Pull Request してみよう
+ * Pull Request が来たら
  * GitHub Flow
  * Fork!
 * Git を使う GitHub
@@ -34,8 +36,6 @@ layout: default
  * 手元でブランチを分岐する
  * git add と git commit
  * リモートへ push!
- * Pull Request してみよう
- * Pull Request が来たら
 * GitHub Flow
  * ブランチ分岐→変更→Pull Request → レビュー → マージ
  * トピックブランチという考え方
