@@ -50,3 +50,4 @@ layout: default
 ## 資料など
 
 * [Gitのインストール](./installing-git.html)
+* [Explain Git with D3] (http://www.wei-wang.com/ExplainGitWithD3/)
