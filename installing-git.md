@@ -39,3 +39,13 @@ GUI版のクライアントもあります。お好みでどうぞ。
 * 「Install Command Line Tools」ボタンを押す
 
 ![Screenshot]({{site.baseurl}}/images/github-mac-command-line-tools.png)
+
+
+### CUIインストール確認 (Mac, Linux)
+
+ターミナルを起動して、
+
+```bash
+$ git --version
+# => git version 1.9.1 のようにバージョンが表示されればOK
+```
