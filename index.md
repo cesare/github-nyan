@@ -51,3 +51,4 @@ layout: default
 
 * [Gitのインストール](./installing-git.html)
 * [Explain Git with D3] (http://www.wei-wang.com/ExplainGitWithD3/)
+* [発表資料] (https://speakerdeck.com/cesare/yatutemiyougithub)
